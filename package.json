@@ -1,0 +1,11 @@
+{
+  "name": "channel-sessions-view",
+  "version": "1.0.0",
+  "description": "a view that display one more channel sessions.",
+  "main": "index.js",
+  "scripts": {
+    "test": "ut"
+  },
+  "author": "Kenny Huang <Kenny.Huang@adp.com>",
+  "license": "ISC"
+}
