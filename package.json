@@ -1,6 +1,6 @@
 {
   "name": "channel-sessions-view",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "a view that display one more channel sessions.",
   "main": "./lib/main.js",
   "scripts": {
