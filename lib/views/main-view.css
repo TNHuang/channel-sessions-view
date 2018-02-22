@@ -1,0 +1,29 @@
+.grey-back-ground {
+	background-color: #f2f2f2
+}
+
+.covered-full-screen {
+	margin: 0px;
+	top: 0 px;
+	left: 0 px;
+	height: 100%;
+	width: 100%;
+}
+
+.sold-red-border {
+	border: 1px solid red;
+}
+
+.relative-position {
+	position: relative
+}
+
+.absolute-position {
+	position: absolute;
+}
+
+
+.margin-0-auto {
+	margin: 0 auto;
+}
+

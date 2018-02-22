@@ -1,0 +1,19 @@
+Hey Kenny,
+
+We actually had a coding exercise for you.  You can use React if you like as we are just trying to see how you attack this challenge:
+
+The attached mockup shows a potential design for an upcoming feature on our platform.
+
+
+Use Node.js to build a web application that lists channel sessions according to this design. Use the provided sample data channel.json. You may use any JavaScript or CSS libraries or frameworks to complete this exercise.
+
+
+We will be looking for appropriate semantic HTML5 markup, a strong grasp of CSS, an understanding of JavaScript and properly separated concerns. 
+
+
+Can you please provide link to the repo where your completed work is for this exercise. As a bonus, we hope you can try to make the design responsive (you can provide your own styling for responsive viewports - we just want to see how you approach responsiveness).
+
+I have attached the required design and data files below.
+
+Thanks,
+Andrew
